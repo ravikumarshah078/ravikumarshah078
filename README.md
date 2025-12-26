@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ravi Kumar 👋
 
-<!--
-**ravikumarshah078/ravikumarshah078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack PHP Developer with 4+ years of experience handling both backend (Laravel, APIs, databases) and frontend (Vue.js) for scalable web applications.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- PHP, Laravel, CakePHP
+- MySQL, MongoDB
+- REST APIs, RBAC
+- JavaScript, Vue.js, HTML, CSS
+- Git, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Experience Highlights
+- Built and maintained SaaS backend systems
+- Developed subscription and billing modules
+- Designed secure authentication and authorization systems
+- Optimized backend performance and APIs
+
+## 🌱 Currently Learning
+- Event-driven architectures
+- System scalability and performance
+- Python for Data Analysis (NumPy, Pandas)
+- Machine Learning fundamentals (Supervised & Unsupervised learning)
+- Applying ML concepts to real-world backend and product use cases
